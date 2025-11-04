@@ -1,0 +1,2 @@
+This is my first GitHub repository!  
+It contains a simple "Hello World" file created while learning how to use GitHub.  
